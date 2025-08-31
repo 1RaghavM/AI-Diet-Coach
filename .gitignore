@@ -1,0 +1,4 @@
+.env
+parsed_daily_menus.json
+__pycache__/
+.DS_Store
