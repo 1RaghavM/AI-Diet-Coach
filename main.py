@@ -5,7 +5,6 @@ import json, requests, datetime, os
 load_dotenv()
 
 client = Groq(
-    # This is the default and can be omitted
     api_key=os.getenv("GROQ_API_KEY"),
 )
 
